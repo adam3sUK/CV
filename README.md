@@ -1,6 +1,8 @@
-## Your Name
+## Adam Harbisher
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A sentence about who and what you are.
+I am a Web Designer turned Software Engineer with 7 years experience working on 100+ responsive web sites for businesses.
+And then a sentence about what excites you about tech.
 
 ## Projects
 
